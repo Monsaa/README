@@ -11,8 +11,25 @@
 🔹 **IoT Fundamentals: Connecting Things** – CISCO (Jun. 2021)  
 🔹 **PCAP – Programming Essentials in Python** – Python Institute (Oct. 2021 y Oct. 2022)  
 🔹 **Introduction to Packet Tracer** – CISCO (Nov. 2021)  
-🔹 **Soporte y Seguridad de Red** – CISCO / UNAD (Mar. 2025)
-🔹 **Dispositivos de Red y Configuración Inicial** – CISCO / UNAD (Mar. 2025)
+🔹 **Soporte y Seguridad de Red** – CISCO / UNAD (Mar. 2025 – 12 horas)  
+🔹 **Dispositivos de Red y Configuración Inicial** – CISCO / UNAD (Mar. 2025 – 22 horas)
+
+📘 **Certificaciones Proyecto CDA – Instituto Técnico Profesional ITP UNAD (Mar. – May. 2025):**  
+*Cursos en ciberseguridad y redes:*
+
+**🔐 Ciberseguridad**  
+🔹 Curso #1: Conciencia digital  
+🔹 Curso #2: Introducción a la ciberseguridad  
+🔹 Curso #3: Conceptos básicos de redes  
+🔹 Curso #4: Dispositivos de red y configuración inicial  
+🔹 Curso #5: Seguridad de terminales  
+🔹 Curso #6: Defensa de la red  
+🔹 Curso #7: Administración de amenazas cibernéticas
+
+**🌐 Redes**  
+🔹 Curso #1: Conciencia digital  
+🔹 Curso #2: Conceptos básicos de redes  
+🔹 Curso #4: Direccionamiento de red y solución de problemas  
 
 ---
 
@@ -26,7 +43,7 @@
 
 ---
 
-📫 **Contáctame:**  
-ansamonsa@gmail.com  
+📢 **Contáctame:**  
+Ansamonsa@gmail.com 
 3184056795
 
