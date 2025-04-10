@@ -11,7 +11,7 @@
 🔹 **IoT Fundamentals: Connecting Things** – CISCO (Jun. 2021)  
 🔹 **PCAP – Programming Essentials in Python** – Python Institute (Oct. 2021 y Oct. 2022)  
 🔹 **Introduction to Packet Tracer** – CISCO (Nov. 2021)  
-🔹 **Soporte y Seguridad de Red** – CISCO / UNAD (Mar. 2025)
+🔹 **Soporte y Seguridad de Red** – CISCO / UNAD (Mar. 2025) 
 🔹 **Dispositivos de Red y Configuración Inicial** – CISCO / UNAD (Mar. 2025)
 
 📘 **Certificaciones Proyecto CDA – Instituto Técnico Profesional ITP UNAD**  
